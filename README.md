@@ -1,0 +1,2 @@
+# Customizing-Tensorflow-2
+In this course you will deepen your knowledge and skills with TensorFlow, in order to develop fully customised deep learning models and workflows for any application. You will use lower level APIs in TensorFlow to develop complex model architectures, fully customised layers, and a flexible data workflow. You will also expand your knowledge of the TensorFlow APIs to include sequence models.
